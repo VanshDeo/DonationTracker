@@ -4,14 +4,19 @@ A fully functional, decentralized Web3 application built on the Stellar Soroban 
 
 ## Deployment Details
 
-*   **Contract ID / Address:** `CAYDWXTEZXZPBFMKLMVX557GANDXUCH7EMYT7GRDBSBLMNRIBAEY2WOI`
+*   **Contract ID / Address:** `CCVF6SC6BRGGXKZNTGJGOMSW4BKWMI3YXNH2DQDINQJQCKPKLH6WKQ34`
 *   **Network:** Stellar Testnet
 *   **Deployment Link:** <!-- Add your frontend deployment link here, e.g., Vercel / Netlify --> `[Insert Deployment URL Here]`
 
-## Dashboard Preview
+## Screenshots 📸
 
-<!-- Replace the image link below with an actual screenshot of your DApp dashboard after deployment -->
-![Dashboard Screenshot](./dashboard-preview.png)
+### 1. DApp Dashboard
+<!-- Replace the link below with your Dashboard screenshot file path -->
+![Dashboard Screenshot](./screenshots/dashboard.png)
+
+### 2. Contract on Stellar Lab
+<!-- Replace the link below with your Stellar Lab screenshot file path -->
+![Stellar Lab View](./screenshots/stellar-lab.png)
 
 ## 
 
