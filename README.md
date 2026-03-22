@@ -12,13 +12,11 @@ A fully functional, decentralized Web3 application built on the Stellar Soroban 
 
 ### 1. DApp Dashboard
 <!-- Replace the link below with your Dashboard screenshot file path -->
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](./stellar-donate/screenshots/dashboard.png)
 
 ### 2. Contract on Stellar Lab
 <!-- Replace the link below with your Stellar Lab screenshot file path -->
-![Stellar Lab View](./screenshots/stellar-lab.png)
-
-## 
+![Stellar Lab View](./stellar-donate/screenshots/stellar-labs.png)
 
 ## Features ✨
 
