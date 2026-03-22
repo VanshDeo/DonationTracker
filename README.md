@@ -6,7 +6,7 @@ A fully functional, decentralized Web3 application built on the Stellar Soroban 
 
 *   **Contract ID / Address:** `CCVF6SC6BRGGXKZNTGJGOMSW4BKWMI3YXNH2DQDINQJQCKPKLH6WKQ34`
 *   **Network:** Stellar Testnet
-*   **Deployment Link:** <!-- Add your frontend deployment link here, e.g., Vercel / Netlify --> `[Insert Deployment URL Here]`
+*   **Deployment Link:** <!-- Add your frontend deployment link here, e.g., Vercel / Netlify --> `Vercel`
 
 ## Screenshots 📸
 
